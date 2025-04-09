@@ -98,19 +98,3 @@ For each day (0 to 11):
         Else:
             Print gift line
 ```
-
-## Purpose of Learning
-
-- Understand how to use **data structures** efficiently to represent repetitive content
-- Learn to implement **nested loops** to handle complex patterns
-- Practice using **conditional logic** to handle special cases
-- Demonstrate how code simplification improves readability and maintainability
-
-## Key Takeaways
-
-- **Arrays** provide an efficient way to store and access ordered collections
-- **Nested loops** are powerful for handling repetitive patterns with variations
-- **Conditional statements** allow for special case handling within patterns
-- **Code simplification** through proper data structure ordering can reduce complexity
-- Rust's **range operators** (`0..=11`) and methods (`.rev()`) provide concise ways to iterate
-- **String formatting** in Rust uses the `println!` macro with placeholders like `{}`
